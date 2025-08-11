@@ -11,17 +11,17 @@
 
 ## 🛠️ Skills
 
-### Languages:  Java, Python, Ballerina, JavaScript, HTML, CSS
-### Frameworks/Tools: React, Node.js, Git, Django (learning)
-### Other: Database Management (SQL), REST APIs, Version Control
-### Soft Skills: Problem-solving, teamwork, and a growth mindset
+**Languages:  Java, Python, Ballerina, JavaScript, HTML, CSS**
+**Frameworks/Tools: React, Node.js, Git, Django (learning)**
+**Other: Database Management (SQL), REST APIs, Version Control**
+**Soft Skills: Problem-solving, teamwork, and a growth mindset**
 
 ## 🔭 What I'm Working On
 
-### Building small projects to sharpen my coding skills
-### Exploring full-stack development with MERN stack
-### Contributing to open-source projects (soon!)
-### Learning about cloud computing and DevOps
+**Building small projects to sharpen my coding skills**
+**Exploring full-stack development with MERN stack**
+**Contributing to open-source projects (soon!)**
+**Learning about cloud computing and DevOps**
 
 ## 📫 Connect With Me
 
