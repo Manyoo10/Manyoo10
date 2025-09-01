@@ -28,7 +28,7 @@
 ### 📧 Email: asseranaikuti@gmail.com
 ### 💼 LinkedIn: [linkedin.com/in/asser-naikuti)](https://www.linkedin.com/in/asser-naikuti-b38190269/)
 ### 🐦 X: https://x.com/manho_10
-### 🌐 Portfolio: Coming soon!
+### 🌐 Portfolio: (https://assernaikuti.netlify.app/)
 
 ## ⚡ Fun Fact
 **When I'm not coding, you can find me exploring Namibia's beautiful landscapes or tinkering with tech gadgets!**  
