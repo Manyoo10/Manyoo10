@@ -1,6 +1,6 @@
 #  Asser Naikuti!
 
- ### I'm a passionate Software Development student at the Namibia University of Science and Technology (NUST), eager to build innovative solutions through code. I love exploring new technologies, solving problems, and contributing to projects that make a difference.
+I'm a passionate Software Development student at the Namibia University of Science and Technology (NUST), eager to build innovative solutions through code. I love exploring new technologies, solving problems, and contributing to projects that make a difference.
  
 ## 🌟 About Me
 
