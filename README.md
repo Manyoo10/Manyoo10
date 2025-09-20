@@ -4,12 +4,12 @@ I'm a passionate Software Development student at the Namibia University of Scien
  
 ## 🌟 About Me
 
-### 🎓 Studying Software Development at NUST, Namibia
-### 💻 Enthusiastic about web development, mobile apps, and backend systems
-### 🚀 Always learning and experimenting with new tools and frameworks
-### 🌍 Based in Namibia, aiming to contribute to the global tech community
+🎓 Studying Software Development at NUST, Namibia
+ 💻 Enthusiastic about web development, mobile apps, and backend systems
+🚀 Always learning and experimenting with new tools and frameworks
+🌍 Based in Namibia, aiming to contribute to the global tech community
 
-## 🛠️ Skills
+### 🛠️ Skills
 
 **Languages:  Java, Python, Ballerina, JavaScript, HTML, CSS**
 **Frameworks/Tools: React,Spring Boot,  Node.js, Git, Django (learning)**
