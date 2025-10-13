@@ -12,16 +12,15 @@ I'm a passionate Software Development student at the Namibia University of Scien
 ### 🛠️ Skills
 
 Languages:  Java, Python, Ballerina, JavaScript, HTML, CSS
-**Frameworks/Tools: React,Spring Boot,  Node.js, Git, Django (learning)**
-**Other: Database Management (SQL), REST APIs, Version Control**
-**Soft Skills: Problem-solving, teamwork, and a growth mindset**
+**Frameworks/Tools:** React,Spring Boot,  Node.js, Git, Django (learning)
+**Other:** Database Management (SQL), REST APIs, Version Control
+**Soft Skills:** Problem-solving, teamwork, and a growth mindset
 
 ## 🔭 What I'm Working On
 
-**Building small projects to sharpen my coding skills**
-**Exploring full-stack development with MERN stack and Spring Boot**
-**Contributing to open-source projects (soon!)**
-**Learning about cloud computing and DevOps**
+Building small projects to sharpen my coding skills
+Exploring full-stack development with MERN stack and Spring Boot
+Learning about cloud computing and DevOps
 
 ## 📫 Connect With Me
 
