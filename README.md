@@ -30,6 +30,6 @@ Learning about cloud computing and DevOps
 ### 🌐 Portfolio: (https://assernaikuti.netlify.app/)
 
 ## ⚡ Fun Fact
-When I'm not coding, you can find me exploring Namibia's beautiful landscapes or tinkering with tech gadgets!
+**When I'm not coding, you can find me exploring Namibia's beautiful landscapes or tinkering with tech gadgets!**
 
 ⭐️ Thanks for visiting my profile! Feel free to check out my repositories or reach out to collaborate on exciting projects!
