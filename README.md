@@ -1,35 +1,99 @@
-#  Asser Naikuti!
+# Asser Naikuti
 
-I'm a passionate Software Development student at the Namibia University of Science and Technology (NUST), eager to build innovative solutions through code. I love exploring new technologies, solving problems, and contributing to projects that make a difference.
- 
-## 🌟 About Me
+I'm a passionate **Full Stack Developer** dedicated to crafting elegant, performant solutions that solve real-world problems. With expertise across modern web technologies, I transform ideas into scalable applications.
 
-🎓 Studying Software Development at NUST, Namibia
- 💻 Enthusiastic about web development, mobile apps, and backend systems
-🚀 Always learning and experimenting with new tools and frameworks
-🌍 Based in Namibia, aiming to contribute to the global tech community
+---
 
-### 🛠️ Skills
+## 🚀 What I Do
 
-Languages:  Java, Python, Ballerina, JavaScript, HTML, CSS
-**Frameworks/Tools:** React,Spring Boot,  Node.js, Git, Django (learning)
-**Other:** Database Management (SQL), REST APIs, Version Control
-**Soft Skills:** Problem-solving, teamwork, and a growth mindset
+- **Web Development**: Building responsive, user-centric applications with React, TypeScript, and modern frontend frameworks
+- **Full Stack Solutions**: End-to-end development from database design to deployment
+- **Problem Solving**: Clean code, scalable architecture, and thoughtful UX/UI implementation
+- **Open Source**: Contributing to and maintaining projects that help the developer community
 
-## 🔭 What I'm Working On
+---
 
-Building small projects to sharpen my coding skills
-Exploring full-stack development with MERN stack and Spring Boot
-Learning about cloud computing and DevOps
+## 💻 Tech Stack
 
-## 📫 Connect With Me
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 📧 Email: asseranaikuti@gmail.com
-### 💼 LinkedIn: [linkedin.com/in/asser-naikuti)](https://www.linkedin.com/in/asser-naikuti-b38190269/)
-### 🐦 X: https://x.com/manho_10
-### 🌐 Portfolio: (https://assernaikuti.netlify.app/)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-## ⚡ Fun Fact
-**When I'm not coding, you can find me exploring Namibia's beautiful landscapes or tinkering with tech gadgets!**
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-⭐️ Thanks for visiting my profile! Feel free to check out my repositories or reach out to collaborate on exciting projects!
+---
+
+## 📌 Featured Projects
+
+### [Concept to Code Portfolio](https://github.com/Manyoo10/concept-to-code-portfolio)
+A modern, fully-featured portfolio website built with React, TypeScript, and Tailwind CSS. Showcases responsive design, smooth animations, and integrated contact functionality.
+
+- **Tech**: React • TypeScript • Vite • Tailwind CSS • shadcn/ui
+- **Features**: Hero section, portfolio showcase, contact form, responsive navigation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manyoo10&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manyoo10&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing web development, collaborating on interesting projects, or helping others in the developer community.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=globe)](https://yourportfoliourl.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Building full-stack applications with modern frameworks
+- 📚 Deepening expertise in cloud architecture and DevOps
+- 🤖 Exploring AI/ML integration in web applications
+- 👥 Contributing to open-source projects
+
+---
+
+## 💡 Fun Facts
+
+- ☕ Coffee-fueled developer
+- 🎮 Gamer at heart
+- 📖 Always learning and staying updated with latest tech
+- 🌍 Passionate about creating accessible web experiences
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by Manyoo10**
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Manyoo10)
+
+</div>
