@@ -66,7 +66,7 @@ A modern, fully-featured portfolio website built with React, TypeScript, and Tai
 I'm always interested in discussing web development, collaborating on interesting projects, or helping others in the developer community.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=globe)](https://assernaikuti.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/Asser Naikuti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/manyoo10)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:assernaikuti@gmail.com)
 
