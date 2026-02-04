@@ -90,10 +90,3 @@ I'm always interested in discussing web development, collaborating on interestin
 
 ---
 
-<div align="center">
-  
-**Made with ❤️ by Manyoo10**
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Manyoo10)
-
-</div>
