@@ -4,7 +4,7 @@ I'm a passionate **Full Stack Developer** dedicated to crafting elegant, perform
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - **Web Development**: Building responsive, user-centric applications with React, TypeScript, and modern frontend frameworks
 - **Full Stack Solutions**: End-to-end development from database design to deployment
@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Developer** dedicated to crafting elegant, perform
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -39,7 +39,7 @@ I'm a passionate **Full Stack Developer** dedicated to crafting elegant, perform
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [Concept to Code Portfolio](https://github.com/Manyoo10/concept-to-code-portfolio)
 A modern, fully-featured portfolio website built with React, TypeScript, and Tailwind CSS. Showcases responsive design, smooth animations, and integrated contact functionality.
@@ -49,7 +49,7 @@ A modern, fully-featured portfolio website built with React, TypeScript, and Tai
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -61,7 +61,7 @@ A modern, fully-featured portfolio website built with React, TypeScript, and Tai
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in discussing web development, collaborating on interesting projects, or helping others in the developer community.
 
@@ -72,18 +72,17 @@ I'm always interested in discussing web development, collaborating on interestin
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔨 Building full-stack applications with modern frameworks
-- 📚 Deepening expertise in cloud architecture and DevOps
-- 🤖 Exploring AI/ML integration in web applications
-- 👥 Contributing to open-source projects
+-  Building full-stack applications with modern frameworks
+-  Deepening expertise in cloud architecture and DevOps
+-  Exploring AI/ML integration in web applications
+-  Contributing to open-source projects
 
 ---
 
-## 💡 Fun Facts
+## Fun Facts
 
-- ☕ Coffee-fueled developer
 - 🎮 Gamer at heart
 - 📖 Always learning and staying updated with latest tech
 - 🌍 Passionate about creating accessible web experiences
